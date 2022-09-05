@@ -1,2 +1,2 @@
-# Algoritimos_feitos
+# Algoritmos_feitos
 Algoritimos feitos em aula
